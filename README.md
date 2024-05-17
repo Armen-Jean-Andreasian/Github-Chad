@@ -1,4 +1,5 @@
-# Github Chad
+# <img src="assets/logo.png" alt="Github Chad!" height="30" /> Github Chad!
+
 
 ---
 
@@ -15,13 +16,13 @@
 
 We once thought the "**Perfect Github contribution graph**" was just a meme or a form of self-expression.
 
-![Perfect Contribution Graph](assets/img.jpg)
+![Perfect Contribution Graph](assets/qham.jpg)
 
 ## We were completely wrong!
 
 While some unique cases exist:
 
-![Unique Patterns](assets/img.png)
+![Unique Patterns](assets/imbetterthanu.png)
 
 Some people take this meme seriously! 
 
@@ -37,7 +38,7 @@ As developers, it's hard to see what the graph reveals about a candidate, who mi
 
 However, it's a dead serious information, which may be somewhat theoretically understandable for an intern/junior position, but some HRs do this even for middle role positions.
 
-![Serious Info](assets/img_1.png)
+![Serious Info](assets/ww.png)
 
 ---
 
@@ -57,7 +58,7 @@ So, I built a script to simplify this process for you and improve the "talent re
         - Press `N` to perform it only once.
 5. Done! Your GitHub graph will soon look like this:
 
-![Graph Example](assets/img1.png)
+![Graph Example](assets/contr.png)
 
 
 ---
