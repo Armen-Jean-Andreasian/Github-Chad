@@ -16,15 +16,17 @@
 
 We once thought the "**Perfect Github contribution graph**" was just a meme or a form of self-expression.
 
-![Perfect Contribution Graph](assets/qham.jpg)
+<img src="assets/qham.jpg" width="900">
+
 
 ## We were completely wrong!
 
-While some unique cases exist:
+While some unique self-assertion issues exist:
 
-![Unique Patterns](assets/imbetterthanu.png)
+<img src="assets/imbetterthanu.png" width="500">
 
-Some people take this meme seriously! 
+
+There are some other, absolutely sane people took this meme seriously! 
 
 And they are:
 
